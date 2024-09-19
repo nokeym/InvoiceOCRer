@@ -42,3 +42,4 @@ if __name__ == '__main__':
     #PDFPath = input('请将文件拖进来')
     OCR_PDF(PDFPath,'快速')
     #OCR_IMGS(IMGPath,'快速')
+    #学习git
